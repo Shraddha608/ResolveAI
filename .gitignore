@@ -33,3 +33,4 @@ Thumbs.db
 models/*.npz
 models/*.model
 models/*.csv
+models/*.npy
