@@ -1,5 +1,5 @@
 # Python
-__pycache__/
+__pycache__/.pytest_cache/
 *.py[cod]
 
 # Virtual environment
@@ -34,3 +34,5 @@ models/*.npz
 models/*.model
 models/*.csv
 models/*.npy
+
+
